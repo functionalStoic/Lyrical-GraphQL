@@ -38,7 +38,7 @@
     "passport-local": "^1.0.0",
     "ramda": "^0.26.0",
     "react": "16.8.6",
-    "react-apollo": "^2.0.0",
+    "react-apollo": "^3.0.0",
     "react-dom": "16.8.6",
     "react-router": "^5.0.0",
     "style-loader": "^0.23.0",
